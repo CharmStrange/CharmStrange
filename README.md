@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![CharmStrange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharmStrange)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Naver Blog Badge](https://img.shields.io/badge/네이버블로그-03C75A?logo=naver&logoColor=white&style=for-the-badge)](https://blog.naver.com/zetmond)
