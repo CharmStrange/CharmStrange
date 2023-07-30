@@ -1,3 +1,5 @@
+<div align="center">
+
 [![CharmStrange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharmStrange&show_icons=true&bg_color=40,FFF5EE,F0FFFF,F0FFF0&title_color=696969&text_color=696969&icon_color=DAA520&border_color=FFFFFF&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Naver Blog Badge](https://img.shields.io/badge/네이버블로그-03C75A?logo=naver&logoColor=white&style=for-the-badge)](https://blog.naver.com/zetmond)
@@ -7,3 +9,5 @@
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21331589/normaltoad)
 
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=CharmStrange&title_color=FFFFFF&text_color=000000&border_color=FFFFFF)
+
+</div>
