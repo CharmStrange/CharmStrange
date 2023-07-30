@@ -1,4 +1,4 @@
-[![CharmStrange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharmStrange)](https://github.com/anuraghazra/github-readme-stats)
+[![CharmStrange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharmStrange&show_icons=true&bg_color=40,FFF5EE,F0FFFF,F0FFF0&title_color=696969&text_color=696969&icon_color=4169E1&border_color=FFFFFF&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Naver Blog Badge](https://img.shields.io/badge/네이버블로그-03C75A?logo=naver&logoColor=white&style=for-the-badge)](https://blog.naver.com/zetmond)
 [![Notion Badge](https://img.shields.io/badge/Notion-FFFFFF?logo=notion&logoColor=000000&style=for-the-badge)](https://strangecharmsailer.notion.site/Effecient-Productivity-with-Notion-864ba16703714690b86ef66e71707341)
