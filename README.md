@@ -5,3 +5,5 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kunhee-lee-1a8a1a27a/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/seventyfivebyte)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21331589/normaltoad)
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=CharmStrange&title_color=FFFFFF&text_color=000000&border_color=FFFFFF)
