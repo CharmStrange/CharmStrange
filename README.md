@@ -1,4 +1,4 @@
-
+<div align="center">
 
 [![CharmStrange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharmStrange&show_icons=true&bg_color=40,FFFFFF,FFFFFF,FFFFFF&title_color=000000&text_color=000000&icon_color=DAA520&border_color=FFFFFF&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
