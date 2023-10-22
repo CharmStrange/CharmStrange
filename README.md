@@ -13,7 +13,7 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-FFFFFF?logo=notion&logoColor=000000&style=for-the-badge)](https://strangecharmsailer.notion.site/Effecient-Productivity-with-Notion-864ba16703714690b86ef66e71707341)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21331589/normaltoad)
 
-#### [![StackOverflow Badge](https://img.shields.io/badge/전공(학습)과정-C71A36?logo=applearcade&logoColor=white&style=for-the-badge)](전공과목.md)
-#### [![StackOverflow Badge](https://img.shields.io/badge/Repositories-000000?logo=internetcomputer&logoColor=white&style=for-the-badge)](https://github.com/CharmStrange?tab=repositories)
+[![StackOverflow Badge](https://img.shields.io/badge/전공(학습)과정-C71A36?logo=applearcade&logoColor=white&style=for-the-badge)](전공과목.md)
+[![StackOverflow Badge](https://img.shields.io/badge/Repositories-000000?logo=internetcomputer&logoColor=white&style=for-the-badge)](https://github.com/CharmStrange?tab=repositories)
 
 </div>
