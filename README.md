@@ -17,6 +17,7 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-FFFFFF?logo=notion&logoColor=000000&style=for-the-badge)](https://strangecharmsailer.notion.site/Effecient-Productivity-with-Notion-864ba16703714690b86ef66e71707341)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21331589/normaltoad)
 [![StackExchange Badge](https://img.shields.io/badge/StackExchange-1E5397?logo=stackexchange&logoColor=white&style=for-the-badge)](https://datascience.stackexchange.com/users/156011/normaltoad)
+[![Medium Badge](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@l033illil.l1ili.l.ili.l11)
 
 [![Apple Arcade Badge](https://img.shields.io/badge/전공(학습)과정-C71A36?logo=applearcade&logoColor=white&style=for-the-badge)](전공과목.md)
 [![Internet Computer Badge](https://img.shields.io/badge/Repositories-000000?logo=internetcomputer&logoColor=white&style=for-the-badge)](https://github.com/CharmStrange?tab=repositories)
