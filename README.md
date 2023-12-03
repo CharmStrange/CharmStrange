@@ -14,7 +14,7 @@
 [![Naver Blog Badge](https://img.shields.io/badge/네이버블로그-03C75A?logo=naver&logoColor=white&style=for-the-badge)](https://blog.naver.com/zetmond)
 [![Medium Badge](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@l033illil.l1ili.l.ili.l11)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/seventyfivebyte)
-[![StackExchange Badge](https://img.shields.io/badge/StackExchange-1E5397?logo=stackexchange&logoColor=white&style=for-the-badge)](https://datascience.stackexchange.com/users/156011/normaltoad)
+<!-- [![StackExchange Badge](https://img.shields.io/badge/StackExchange-1E5397?logo=stackexchange&logoColor=white&style=for-the-badge)](https://datascience.stackexchange.com/users/156011/normaltoad) -->
 <!--
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21331589/normaltoad)
 -->
