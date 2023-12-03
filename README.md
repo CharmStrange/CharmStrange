@@ -23,6 +23,6 @@
 -->
 [![Apple Arcade Badge](https://img.shields.io/badge/전공(학습)과정-C71A36?logo=applearcade&logoColor=white&style=for-the-badge)](전공과목.md)
 [![Internet Computer Badge](https://img.shields.io/badge/Repositories-000000?logo=internetcomputer&logoColor=white&style=for-the-badge)](https://github.com/CharmStrange?tab=repositories)
-[![Notion Badge](https://img.shields.io/badge/Notion-FFFFFF?logo=notion&logoColor=000000&style=for-the-badge)](https://strangecharmsailer.notion.site/Effecient-Productivity-with-Notion-864ba16703714690b86ef66e71707341)
+[![Notion Badge](https://img.shields.io/badge/Notion-FFFFFF?logo=notion&logoColor=000000&style=for-the-badge)](https://www.notion.so/strangecharmsailer/Efficient-Productivity-with-Notion-864ba16703714690b86ef66e71707341?pvs=4)
 
 </div>
