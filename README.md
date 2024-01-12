@@ -11,10 +11,10 @@
 
 -->
 
-[![Naver Blog Badge](https://img.shields.io/badge/Naver_Blog-03C75A?logo=naver&logoColor=white&style=for-the-badge)](https://blog.naver.com/zetmond)
-[![Medium Badge](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@l033illil.l1ili.l.ili.l11)
-[![Notion Badge](https://img.shields.io/badge/Notion-FFFFFF?logo=notion&logoColor=000000&style=for-the-badge)](https://www.notion.so/strangecharmsailer/Efficient-Productivity-with-Notion-5dda0df6ec804f2fabc809699b1904d5?pvs=4)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kunhee-lee-1a8a1a27a/)
+[![Notion Badge](https://img.shields.io/badge/Notion-FFFFFF?logo=notion&logoColor=000000&style=for-the-badge)](https://www.notion.so/strangecharmsailer/Efficient-Productivity-with-Notion-5dda0df6ec804f2fabc809699b1904d5?pvs=4)
+[![Medium Badge](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@l033illil.l1ili.l.ili.l11)
+[![Naver Blog Badge](https://img.shields.io/badge/Naver_Blog-03C75A?logo=naver&logoColor=white&style=for-the-badge)](https://blog.naver.com/zetmond)
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/seventyfivebyte)
 [![Apple Arcade Badge](https://img.shields.io/badge/What_I_Learned/Studied-C71A36?logo=applearcade&logoColor=white&style=for-the-badge)](전공과목.md)
