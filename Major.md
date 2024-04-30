@@ -75,7 +75,7 @@
 >
 > - **[Machine Learning]** : Learned foundational mathematical knowledge underlying machine learning, as well as various algorithms utilized in artificial intelligence. Capable of implementing these algorithms.
 >
-> - **[Traffic Data Processing]** : Learned theoretical concepts and practical applications of data processing in various fields beyond just traffic, using MATLAB. Deeply studied the Kalman state >estimation algorithm, crucial for real-world application.
+> - **[Traffic Data Processing]** : Learned theoretical concepts and practical applications of data processing in various fields beyond just traffic, using MATLAB. Deeply studied the Kalman state estimation algorithm, crucial for real-world application.
 >
 > - **[Data Structures and Algorithms]** : Developed the ability to conceive logical flows for writing code, along with learning data structures necessary for algorithmic problem-solving. Also studied optimization algorithms utilizing these data structures.
 >
