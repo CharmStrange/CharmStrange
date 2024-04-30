@@ -71,8 +71,12 @@
 >
 > Computer Networks []
 > ```
-> - **[Applied Smart Sensors]** :
-> - **[Machine Learning]** :
-> - **[Traffic Data Processing]** :
-> - **[Algorithms]** :
-> - **[Computer Networks]** :
+> - **[Smart Sensor Applications]** : Experienced implementing logic through C language while handling Arduino and various hardware. Was able to understand how actual devices operate. Additionally, found it fascinating how these small and intricate hardware components are built, all functioning on the basis of electricity.
+>
+> - **[Machine Learning]** : Learned foundational mathematical knowledge underlying machine learning, as well as various algorithms utilized in artificial intelligence. Capable of implementing these algorithms.
+>
+> - **[Traffic Data Processing]** : Learned theoretical concepts and practical applications of data processing in various fields beyond just traffic, using MATLAB. Deeply studied the Kalman state >estimation algorithm, crucial for real-world application.
+>
+> - **[Data Structures and Algorithms]** : Developed the ability to conceive logical flows for writing code, along with learning data structures necessary for algorithmic problem-solving. Also studied optimization algorithms utilizing these data structures.
+>
+> - **[Computer Networking]** : Studied essential infrastructure like modern wireless communication technologies, urban networks, continental networks, and the Internet. Unlike the data communication subject, this course delved into networking from a slightly lower level, focusing on the physical aspects of networks.
