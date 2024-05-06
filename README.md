@@ -15,7 +15,7 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-FFFFFF?logo=notion&logoColor=000000&style=for-the-badge)](https://strangecharmsailer.notion.site/Efficient-Productivity-with-Notion-5dda0df6ec804f2fabc809699b1904d5?pvs=4)
 [![Medium Badge](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@l033illil.l1ili.l.ili.l11)
 [![Naver Blog Badge](https://img.shields.io/badge/Naver_Blog-03C75A?logo=naver&logoColor=white&style=for-the-badge)](https://blog.naver.com/zetmond)
-[![Hugging Face Badge](https://img.shields.io/badge/😊_Hugging_Face-E33332?logo=&logoColor=white&style=for-the-badge)](https://huggingface.co/DivineFrog)
+<!--[![Hugging Face Badge](https://img.shields.io/badge/😊_Hugging_Face-E33332?logo=&logoColor=white&style=for-the-badge)](https://huggingface.co/DivineFrog)-->
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/seventyfivebyte)
 [![Apple Arcade Badge](https://img.shields.io/badge/What_I_Learned/Studied-C71A36?logo=applearcade&logoColor=white&style=for-the-badge)](전공과목.md)
 [![Internet Computer Badge](https://img.shields.io/badge/Repositories-000000?logo=internetcomputer&logoColor=white&style=for-the-badge)](https://github.com/CharmStrange?tab=repositories)
