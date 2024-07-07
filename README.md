@@ -17,6 +17,7 @@
 
 [![Notion Badge](https://img.shields.io/badge/Notion-FFFFFF?logo=notion&logoColor=000000&style=for-the-badge)](https://strangecharmsailer.notion.site/Efficient-Productivity-with-Notion-5dda0df6ec804f2fabc809699b1904d5?pvs=4)
 [![Naver Blog Badge](https://img.shields.io/badge/Naver_Blog-03C75A?logo=naver&logoColor=white&style=for-the-badge)](https://blog.naver.com/zetmond)
+[![Medium Badge](https://img.shields.io/badge/_Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@l033illil.l1ili.l.ili.l11)
 [![Hugging Face Badge](https://img.shields.io/badge/😊_Hugging_Face-E33332?logo=&logoColor=white&style=for-the-badge)](https://huggingface.co/DivineFrog)
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/seventyfivebyte)
