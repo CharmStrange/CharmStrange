@@ -61,15 +61,15 @@
 > 
 > ### Spring 2024 [Major Courses]
 > ```
-> Applied Smart Sensors []
+> Applied Smart Sensors [B+]
 >
-> Machine Learning []
+> Machine Learning [A+]
 >
-> Traffic Data Processing []
+> Traffic Data Processing [A+]
 >
-> Algorithms []
+> Algorithms [A+]
 >
-> Computer Networks []
+> Computer Networks [B+]
 > ```
 > - **[Smart Sensor Applications]** : Experienced implementing logic through C language while handling Arduino and various hardware. Was able to understand how actual devices operate. Additionally, found it fascinating how these small and intricate hardware components are built, all functioning on the basis of electricity.
 >
