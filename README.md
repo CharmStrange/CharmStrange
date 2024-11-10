@@ -21,7 +21,7 @@
 [![Hugging Face Badge](https://img.shields.io/badge/😊_Hugging_Face-E33332?logo=&logoColor=white&style=for-the-badge)](https://huggingface.co/DivineFrog)
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/seventyfivebyte)
+[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21331589/normaltoad)
 [![Apple Arcade Badge](https://img.shields.io/badge/What_I_Learned/Studied-C71A36?logo=applearcade&logoColor=white&style=for-the-badge)](전공과목.md)
-[![Internet Computer Badge](https://img.shields.io/badge/Repositories-000000?logo=internetcomputer&logoColor=white&style=for-the-badge)](https://github.com/CharmStrange?tab=repositories)
 
 </div>
