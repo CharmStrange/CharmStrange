@@ -27,3 +27,5 @@
 [![Hugging Face Badge](https://img.shields.io/badge/😊_Hugging_Face-E33332?logo=&logoColor=white&style=for-the-badge)](https://huggingface.co/DivineFrog)
 
 </div>
+
+2025/01/13 ~ 2026/07/12 Republic of Korea Army
