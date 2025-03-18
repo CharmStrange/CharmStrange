@@ -30,4 +30,6 @@
 
 ### 2025/01/13 ~ 2026/07/12 Republic of Korea Army(RoKA)
 
+<!--
 https://github.com/CharmStrange/Study/blob/main/README.md
+-->
