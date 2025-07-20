@@ -27,10 +27,12 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-FFFFFF?logo=notion&logoColor=000000&style=for-the-badge)](https://strangecharmsailer.notion.site/Efficient-Productivity-with-Notion-5dda0df6ec804f2fabc809699b1904d5?pvs=4)
 [![Hugging Face Badge](https://img.shields.io/badge/😊_Hugging_Face-E33332?logo=&logoColor=white&style=for-the-badge)](https://huggingface.co/DivineFrog)
 
-</div>
+### 2025/01/13 ~ 2026/07/12 in Republic of Korea Army : 
 
-### 2025/01/13 ~ 2026/07/12 in Republic of Korea Army :
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5d7c48b6-cb05-4553-8295-92e320cdcd7c" /> ***SIGNAL INTELLIGENCE*** (**152.101**)
 
 <!--
 https://github.com/CharmStrange/Study/blob/main/README.md
 -->
+
+</div>
