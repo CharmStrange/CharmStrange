@@ -1,44 +1,24 @@
-
-
-<!--
-
 <div align="center">
 <!--
 [![CharmStrange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharmStrange&show_icons=true&bg_color=40,FFFFFF,FFFFFF,FFFFFF&title_color=000000&text_color=000000&icon_color=DAA520&border_color=FFFFFF&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=CharmStrange&theme=transparent&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
--->
 
-<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=CharmStrange&theme=transparent&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+
+
 
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=CharmStrange&title_color=FFFFFF&text_color=000000&border_color=FFFFFF)
 
--->
+
 
 <!--
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kunhee-lee-1a8a1a27a/)
 -->
 
-[![Naver Blog Badge](https://img.shields.io/badge/Naver_Blog-03C75A?logo=naver&logoColor=white&style=for-the-badge)](https://blog.naver.com/zetmond)
-[![Apple Arcade Badge](https://img.shields.io/badge/What_I_Learned/Studied-C71A36?logo=applearcade&logoColor=white&style=for-the-badge)](전공과목.md)
-[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21331589/normaltoad)
 
-
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/seventyfivebyte)
-[![Medium Badge](https://img.shields.io/badge/_Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@l033illil.l1ili.l.ili.l11)
-[![Notion Badge](https://img.shields.io/badge/Notion_I-FFFFFF?logo=notion&logoColor=000000&style=for-the-badge)](https://strangecharmsailer.notion.site/Efficient-Productivity-with-Notion-5dda0df6ec804f2fabc809699b1904d5?pvs=4)
-[![Notion Badge](https://img.shields.io/badge/Notion_II-FFFFFF?logo=notion&logoColor=000000&style=for-the-badge)](https://discovered-cattle-578.notion.site/Blog-Porting-27b01b0dd96780ce8dc0cb23be5a49a7)
-
-### 2025/01/13 ~ 2026/07/12 in Republic of Korea Army : 
-
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5d7c48b6-cb05-4553-8295-92e320cdcd7c" /> ***SIGNAL INTELLIGENCE*** (**152.101**)
-
-<!--
-https://github.com/CharmStrange/Study/blob/main/README.md
--->
 
 </div>
 
--->
+
