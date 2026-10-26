@@ -1,6 +1,5 @@
 ---
 title: "Privacy Policy | 할일/습관 추적기 (Intelligence Habit)"
-permalink: /privacy-policy/
 ---
 
 # 개인정보 처리방침 / Privacy Policy
